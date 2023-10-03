@@ -7,8 +7,8 @@
             <div class="card-body p-lg-5 p-0">
                 <div class="p-4">
                     <div class="text-center mb-4">
-                        <h1 class="h4 text-gray-900">Aplikasi Pengadaan Barang</h1>
-                        <span class="text-muted">Buat Akun</span>
+                        <h1 class="h4 text-gray-900">Wings</h1>
+                        <span class="text-muted">Register</span>
                     </div>
                     <?= $this->session->flashdata('pesan'); ?>
                     <?= form_open('', ['class' => 'user']); ?>

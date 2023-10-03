@@ -1,0 +1,1322 @@
+[
+    {
+        "nama_barang": "AYAM GORENG (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000001"
+    },
+    {
+        "nama_barang": "AYAM KALASAN (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000002"
+    },
+    {
+        "nama_barang": "AYAM DRUMSTICK (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000003"
+    },
+    {
+        "nama_barang": "AYAM NASI GORENG (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000004"
+    },
+    {
+        "nama_barang": "KALIO AYAM (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000005"
+    },
+    {
+        "nama_barang": "AYAM JAMUR (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000006"
+    },
+    {
+        "nama_barang": "KUAH SOTO AYAM (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000007"
+    },
+    {
+        "nama_barang": "BEBEK (BAG)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000008"
+    },
+    {
+        "nama_barang": "AYAM SUIR (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000009"
+    },
+    {
+        "nama_barang": "RENDANG SAPI (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000010"
+    },
+    {
+        "nama_barang": "IGA PENYET (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000011"
+    },
+    {
+        "nama_barang": "GULAI SAPI (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000012"
+    },
+    {
+        "nama_barang": "GULAI BABAT (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000013"
+    },
+    {
+        "nama_barang": "DAGING IJO (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000014"
+    },
+    {
+        "nama_barang": "IGA NASI GORENG (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000015"
+    },
+    {
+        "nama_barang": "KUAH SOTO BETAWI (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000016"
+    },
+    {
+        "nama_barang": "BEEF BETAWI (BAG)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000017"
+    },
+    {
+        "nama_barang": "GULAI DOMBA (650ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000018"
+    },
+    {
+        "nama_barang": "GULAI KIKIL (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000019"
+    },
+    {
+        "nama_barang": "PARU SLICE (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000020"
+    },
+    {
+        "nama_barang": "KUAH SUP BUNTUT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000021"
+    },
+    {
+        "nama_barang": "BUNTUT (BAG)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000022"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000023"
+    },
+    {
+        "nama_barang": "RENDANG NANGKA (500mL)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000024"
+    },
+    {
+        "nama_barang": "KAPAU",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000025"
+    },
+    {
+        "nama_barang": "GULAI KALE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000026"
+    },
+    {
+        "nama_barang": "ACAR KUNING (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000027"
+    },
+    {
+        "nama_barang": "SAYUR ASEM (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000028"
+    },
+    {
+        "nama_barang": "SAMBAL KERANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000029"
+    },
+    {
+        "nama_barang": "LONTONG SAYUR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000030"
+    },
+    {
+        "nama_barang": "KARI MIX VEGIE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000031"
+    },
+    {
+        "nama_barang": "RENDANG JENGKOL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000032"
+    },
+    {
+        "nama_barang": "MIX SEAFOOD",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000033"
+    },
+    {
+        "nama_barang": "IKAN BAKAR JIMBARAN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000034"
+    },
+    {
+        "nama_barang": "IKAN NILA TERBANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000035"
+    },
+    {
+        "nama_barang": "IKAN PECEL LELEH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000036"
+    },
+    {
+        "nama_barang": "IKAN PATIN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000037"
+    },
+    {
+        "nama_barang": "UDANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000038"
+    },
+    {
+        "nama_barang": "KERANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000039"
+    },
+    {
+        "nama_barang": "HAKKA FISH PASTE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000040"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000041"
+    },
+    {
+        "nama_barang": "SATAY AYAM (5PCS\/P)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000042"
+    },
+    {
+        "nama_barang": "RISUTTFLE SATAY AYAM (2PCS\/P)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000043"
+    },
+    {
+        "nama_barang": "SATAY DOMBA (5PCS\/P)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000044"
+    },
+    {
+        "nama_barang": "SATAY KERANG (5PCS\/P)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000045"
+    },
+    {
+        "nama_barang": "SATAY KULIT (5PCS\/P)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000046"
+    },
+    {
+        "nama_barang": "BUMBU SATAY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000047"
+    },
+    {
+        "nama_barang": "BUMBU SIOMAY &amp; BATAGOR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000048"
+    },
+    {
+        "nama_barang": "BUMBU GADO-GADO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000049"
+    },
+    {
+        "nama_barang": "BUMBU KETOPRAK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000050"
+    },
+    {
+        "nama_barang": "BUMBU KACANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000051"
+    },
+    {
+        "nama_barang": "FRESH CHILI 500ML",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000052"
+    },
+    {
+        "nama_barang": "BUMBU INTI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000053"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000054"
+    },
+    {
+        "nama_barang": "MIX VEGGIES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000055"
+    },
+    {
+        "nama_barang": "GREEN BEANS",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000056"
+    },
+    {
+        "nama_barang": "SLICE LEMON GRASS",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000057"
+    },
+    {
+        "nama_barang": "CORN KERNEL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000058"
+    },
+    {
+        "nama_barang": "STICK LEMON GRASS",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000059"
+    },
+    {
+        "nama_barang": "LIME LEAVES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000060"
+    },
+    {
+        "nama_barang": "BANANA LEAVES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000061"
+    },
+    {
+        "nama_barang": "PANDAN LEAVES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000062"
+    },
+    {
+        "nama_barang": "GINGER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000063"
+    },
+    {
+        "nama_barang": "CHILLI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000064"
+    },
+    {
+        "nama_barang": "GALANGGAL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000065"
+    },
+    {
+        "nama_barang": "PETAI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000066"
+    },
+    {
+        "nama_barang": "PUFF TOFU",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000067"
+    },
+    {
+        "nama_barang": "TEMPE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000068"
+    },
+    {
+        "nama_barang": "TOFU BALL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000069"
+    },
+    {
+        "nama_barang": "MEAT BALL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000070"
+    },
+    {
+        "nama_barang": "FISH BALL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000071"
+    },
+    {
+        "nama_barang": "RISSOLES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000072"
+    },
+    {
+        "nama_barang": "PASTEL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000073"
+    },
+    {
+        "nama_barang": "PEMPEK (KAPAL SELAM)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000074"
+    },
+    {
+        "nama_barang": "PEMPEK (LENJER)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000075"
+    },
+    {
+        "nama_barang": "SIOMAY (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000076"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000077"
+    },
+    {
+        "nama_barang": "PANGSIT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000078"
+    },
+    {
+        "nama_barang": "SPRING ROLL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000079"
+    },
+    {
+        "nama_barang": "TOFU ROLL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000080"
+    },
+    {
+        "nama_barang": "MINCE MEAT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000081"
+    },
+    {
+        "nama_barang": "MARTABAK SKIN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000082"
+    },
+    {
+        "nama_barang": "BAO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000083"
+    },
+    {
+        "nama_barang": "ROTI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000084"
+    },
+    {
+        "nama_barang": "SAMBAL IJO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000085"
+    },
+    {
+        "nama_barang": "SAMBAL BALADO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000086"
+    },
+    {
+        "nama_barang": "SAMBAL TERASI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000087"
+    },
+    {
+        "nama_barang": "SAMBAL RICA-RICA",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000088"
+    },
+    {
+        "nama_barang": "SAMBAL MATAH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000089"
+    },
+    {
+        "nama_barang": "SAMBAL KOREK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000090"
+    },
+    {
+        "nama_barang": "BUMBU TEPUNG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000091"
+    },
+    {
+        "nama_barang": "BUMBU BAWANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000092"
+    },
+    {
+        "nama_barang": "BUMBU BELACAN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000093"
+    },
+    {
+        "nama_barang": "TEMPE PENYET (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000094"
+    },
+    {
+        "nama_barang": "TAHU PENYET (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000095"
+    },
+    {
+        "nama_barang": "FRESH ACAR (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000096"
+    },
+    {
+        "nama_barang": "GADO-GADO (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000097"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000098"
+    },
+    {
+        "nama_barang": "LONTONG (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000099"
+    },
+    {
+        "nama_barang": "FRIED ANCHOVIES (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000100"
+    },
+    {
+        "nama_barang": "CRUSH PEANUT (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000101"
+    },
+    {
+        "nama_barang": "TEMPE MENDOAN (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000102"
+    },
+    {
+        "nama_barang": "CUKO (5L BOTTLE)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000103"
+    },
+    {
+        "nama_barang": "HOKIEN NOODLES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000104"
+    },
+    {
+        "nama_barang": "KWETIAU",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000105"
+    },
+    {
+        "nama_barang": "THICK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000106"
+    },
+    {
+        "nama_barang": "THIN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000107"
+    },
+    {
+        "nama_barang": "INSTANT NOODLES (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000108"
+    },
+    {
+        "nama_barang": "EGGS (500G\/600G)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000109"
+    },
+    {
+        "nama_barang": "EGGS (600G\/700G\/800G)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000110"
+    },
+    {
+        "nama_barang": "KANGKUNG (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000111"
+    },
+    {
+        "nama_barang": "EGGPLANT (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000112"
+    },
+    {
+        "nama_barang": "CHOISUM (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000113"
+    },
+    {
+        "nama_barang": "CABBAGES BIG CUT (5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000114"
+    },
+    {
+        "nama_barang": "SHEARDED CABBAGES (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000115"
+    },
+    {
+        "nama_barang": "CARROT JULIET (2.5L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000116"
+    },
+    {
+        "nama_barang": "CARROT SHREDDED (1L)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000117"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000118"
+    },
+    {
+        "nama_barang": "SLICED CUCUMBER (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000119"
+    },
+    {
+        "nama_barang": "SHALLOTS (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000120"
+    },
+    {
+        "nama_barang": "CELERY BUNTUT (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000121"
+    },
+    {
+        "nama_barang": "CELERY TOPPING (500ML)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000122"
+    },
+    {
+        "nama_barang": "BEANSPROUT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000123"
+    },
+    {
+        "nama_barang": "CABBAGE HEAD",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000124"
+    },
+    {
+        "nama_barang": "KANGKUNG BUNCHES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000125"
+    },
+    {
+        "nama_barang": "CHOISUM \/ PAK CHOI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000126"
+    },
+    {
+        "nama_barang": "EGGPLANTS BOXES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000127"
+    },
+    {
+        "nama_barang": "SHALLOTS BUNCHES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000128"
+    },
+    {
+        "nama_barang": "CUCUMBER CONTINENTAL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000129"
+    },
+    {
+        "nama_barang": "CARROTS 20KG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000130"
+    },
+    {
+        "nama_barang": "YELLOW TOFU",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000131"
+    },
+    {
+        "nama_barang": "BUTTER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000132"
+    },
+    {
+        "nama_barang": "TOMATOES",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000133"
+    },
+    {
+        "nama_barang": "GARLIC",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000134"
+    },
+    {
+        "nama_barang": "KUAH UNIVERSAL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000135"
+    },
+    {
+        "nama_barang": "KUAH BAKSO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000136"
+    },
+    {
+        "nama_barang": "KUAH RENDANG SAPI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000137"
+    },
+    {
+        "nama_barang": "KUAH GULAI SAPI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000138"
+    },
+    {
+        "nama_barang": "KUAH GULAI BABAT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000139"
+    },
+    {
+        "nama_barang": "KUAH KUNING",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000140"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000141"
+    },
+    {
+        "nama_barang": "KERUPUK BAWANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000142"
+    },
+    {
+        "nama_barang": "KERUPUK UDANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000143"
+    },
+    {
+        "nama_barang": "EMPING",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000144"
+    },
+    {
+        "nama_barang": "RAW PEANUT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000145"
+    },
+    {
+        "nama_barang": "BAWANG GORENG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000146"
+    },
+    {
+        "nama_barang": "BAWANG PUTIH GORENG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000147"
+    },
+    {
+        "nama_barang": "JAMBRONG FISH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000148"
+    },
+    {
+        "nama_barang": "NUTMEG GROUNG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000149"
+    },
+    {
+        "nama_barang": "CANDLE NUT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000150"
+    },
+    {
+        "nama_barang": "ASSAM KANDIS",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000151"
+    },
+    {
+        "nama_barang": "CURRY POWDER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000152"
+    },
+    {
+        "nama_barang": "STAR ANISE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000153"
+    },
+    {
+        "nama_barang": "CARDAMON \/ KAPU LAGA",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000154"
+    },
+    {
+        "nama_barang": "WHITE PEPPER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000155"
+    },
+    {
+        "nama_barang": "CINNAMON STICK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000156"
+    },
+    {
+        "nama_barang": "CENGKIH (CLOVE)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000157"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000158"
+    },
+    {
+        "nama_barang": "OREK VEGAN NO SPICY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000159"
+    },
+    {
+        "nama_barang": "OREK VEGAN SPICY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000160"
+    },
+    {
+        "nama_barang": "OREK SPICY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000161"
+    },
+    {
+        "nama_barang": "OREK NO SPICY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000162"
+    },
+    {
+        "nama_barang": "JASMINE RICE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000163"
+    },
+    {
+        "nama_barang": "KETUPAT (LONTONG)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000164"
+    },
+    {
+        "nama_barang": "VERMICELLI (SOUN)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000165"
+    },
+    {
+        "nama_barang": "INSTANT NOODLE (SIMPLEE)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000166"
+    },
+    {
+        "nama_barang": "RICE STICK (BIHUN)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000167"
+    },
+    {
+        "nama_barang": "KONYAKU (AGAR-AGAR)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000168"
+    },
+    {
+        "nama_barang": "TAPIOCA PEARL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000169"
+    },
+    {
+        "nama_barang": "PLAIN FLOUR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000170"
+    },
+    {
+        "nama_barang": "TAPIOCA STARCH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000171"
+    },
+    {
+        "nama_barang": "GLUTINOUS RICE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000172"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000173"
+    },
+    {
+        "nama_barang": "RICE FLOUR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000174"
+    },
+    {
+        "nama_barang": "CORN FLOUR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000175"
+    },
+    {
+        "nama_barang": "BLACK GLUTINOUS RICE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000176"
+    },
+    {
+        "nama_barang": "AJINAMOTTO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000177"
+    },
+    {
+        "nama_barang": "SALT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000178"
+    },
+    {
+        "nama_barang": "RAW SUGAR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000179"
+    },
+    {
+        "nama_barang": "CHICKEN POWDER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000180"
+    },
+    {
+        "nama_barang": "COCONUT SUGAR (GULA JAWA)",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000181"
+    },
+    {
+        "nama_barang": "TUMERIC POWDER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000182"
+    },
+    {
+        "nama_barang": "BAY LEAF",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000183"
+    },
+    {
+        "nama_barang": "CORIENDER POWDER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000184"
+    },
+    {
+        "nama_barang": "SWEET PAPRIKA POWDER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000185"
+    },
+    {
+        "nama_barang": "BUTANE GAS",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000186"
+    },
+    {
+        "nama_barang": "COOKING OIL",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000187"
+    },
+    {
+        "nama_barang": "CONOLA OIL SPRAY",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000188"
+    },
+    {
+        "nama_barang": "PEANUT BUTTER",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000189"
+    },
+    {
+        "nama_barang": "KECAP BANGO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000190"
+    },
+    {
+        "nama_barang": "FISH SAUCE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000191"
+    },
+    {
+        "nama_barang": "WHITE VINEGAR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000192"
+    },
+    {
+        "nama_barang": "ABC SWEET SOY SAUCE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000193"
+    },
+    {
+        "nama_barang": "ABC HOT CHILLI SAUCE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000194"
+    },
+    {
+        "nama_barang": "SWEET CHILLI SAUCE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000195"
+    },
+    {
+        "nama_barang": "STRAW MUSHROOM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000196"
+    },
+    {
+        "nama_barang": "PALM VINEGAR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000197"
+    },
+    {
+        "nama_barang": "KARA COCONUT MILK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000198"
+    },
+    {
+        "nama_barang": "COCONUT CREAM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000199"
+    },
+    {
+        "nama_barang": "CONDENSED MILK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000200"
+    },
+    {
+        "nama_barang": "INDOFOOD RENDANG",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000201"
+    },
+    {
+        "nama_barang": "INDOFOOD GULAI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000202"
+    },
+    {
+        "nama_barang": "INDOFOOD SOTO AYAM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000203"
+    },
+    {
+        "nama_barang": "ENAK ECO GADO-GADO",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000204"
+    },
+    {
+        "nama_barang": "BELACAN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000205"
+    },
+    {
+        "nama_barang": "ITEM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000206"
+    },
+    {
+        "nama_barang": "BUMBU MIE ACEH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000207"
+    },
+    {
+        "nama_barang": "BUMBU KARI KAMBING",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000208"
+    },
+    {
+        "nama_barang": "SAMBAL MAGGA BESAR",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000209"
+    },
+    {
+        "nama_barang": "BUMBU SOTO AYAM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000210"
+    },
+    {
+        "nama_barang": "BUMBU SOTO BETAWI",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000211"
+    },
+    {
+        "nama_barang": "BUMBU SAYUR ASAM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000212"
+    },
+    {
+        "nama_barang": "BUMBU GULAI AYAM",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000213"
+    },
+    {
+        "nama_barang": "BUMBU PESMOL IKAN",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000214"
+    },
+    {
+        "nama_barang": "TAMARIND PASTE BLOCK",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000215"
+    },
+    {
+        "nama_barang": "BUMBU DASAR PUTIH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000216"
+    },
+    {
+        "nama_barang": "BUMBU DASAR KUNING",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000217"
+    },
+    {
+        "nama_barang": "BUMBU DASAR MERAH",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000218"
+    },
+    {
+        "nama_barang": "PRIK KHING CURRY PASTE",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000219"
+    },
+    {
+        "nama_barang": "SAMBAL BAJAK BUMBU NASGOR KUNYIT",
+        "stok": 0,
+        "jenis_id": 9,
+        "id_barang": "B000220"
+    }
+]
